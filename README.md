@@ -1,5 +1,5 @@
 # Populacao Baratas
-<h3><strong>Exercício pratico de Java.</strong></h3>
+<h3><strong>Exercício prático de Java.</strong></h3>
 <ul>
 <li><strong>Implemente uma classe PopulacaoBaratas que simule o crescimento de uma população
 de baratas.</li><li><strong>O construtor recebe o tamanho da população inicial de baratas.</strong></li><li><strong>O método
